@@ -13,4 +13,5 @@ Cada uno de los temas incluye el planteamiento teórico, o modelos teóricos, y 
 
 
 Laboratorista: Samuel D. Restrepo
+
 Profesor: Carlos S. Bazdresch (cbazdreschb@banxico.org.mx)
