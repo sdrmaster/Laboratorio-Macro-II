@@ -9,7 +9,7 @@ Por su parte, la tercera parte del curso está dedicada a los Mercados Laborales
 
 Finalmente, se encuentra la sección dedicada a los Mercados Financieros. Acá nos interesa responder las siguientes preguntas: ¿existen importantes mecanismos macroeconómicos de propagación operando a través de los mercados financieros?¿Los mercados financieros pueden ser una fuente independiente de choques a la economía? ¿Cómo podemos explicar las crisis financieras? De manera relevante, para responderlas, veremos, respectivamente, los modelos de costos de agencia y el acelerador financiero, los modelos de errores de valuación y exceso de volatilidad, y el modelo de Diamond-Dybvig junto a una introducción a las cisis financieras.
 
-Cada uno de los temas incluye el planteamiento teórico, o modelos teóricos, y el apartado empírico pertinente. Asimismo, cada tema viene acompañado de una lista de ejercicios y las sugerencias de solución. Cualquier duda, sugerencia o comentario, no duden en contactarme al siguiente correo: samuel.restrepo@undp.org
+Cada uno de los temas incluye el planteamiento teórico, o modelos teóricos, y el apartado empírico pertinente. Asimismo, cada tema viene acompañado de una lista de ejercicios y las sugerencias de solución. 
 
 
 Laboratorista: Samuel D. Restrepo
